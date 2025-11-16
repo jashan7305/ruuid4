@@ -11,6 +11,5 @@ classifiers = [
     "Programming Language :: Python :: Implementation :: PyPy",
 ]
 dynamic = ["version"]
-version = "0.1.0"
 description = "A tiny, fast UUID4 generator powered by Rust."
 readme = "README.md"
